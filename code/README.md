@@ -1,6 +1,6 @@
 ﻿# ﻿Code execution instructions
 
-1. Edit 'dataset_details.py' between 'user parameter editing section started' and 'user parameter editing section ended' part. Here below parameters can be edited
+1. Edit 'dataset_details.py' between 'user parameter editing section started' and 'user parameter editing section ended' part. Here below parameters can be edited  
 
 *train_path*: provide the training data URL or local file path
 *train_separato*r: provide the training file seperator
